@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="title_play_url">Play Styled Player Videos</string>
+    <string name="title_play_default_url">Play Default Video</string>
+    <string name="_1x">1X</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="track_selection_title">Video Quality</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_selection_title_text">Text</string>
+</resources>
